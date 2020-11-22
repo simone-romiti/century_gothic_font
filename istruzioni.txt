@@ -1,0 +1,5 @@
+Per installare i font della presente cartella, 
+copiare tutti i files .ttf nella cartella ~/.fonts/ .
+Nel caso la cartella ~/.fonts non esistesse, crearla.
+
+Non è necessario eseguire altre operazioni di configurazione.
